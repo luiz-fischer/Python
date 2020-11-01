@@ -1,0 +1,3 @@
+# cd-..
+
+LEARNING PYTHON
