@@ -76,5 +76,5 @@ def tri_recursion(k):
     else:
         result = 0
     return result
-print("\nRecursion Example Results")
+print("\nRecursion Example Results\n")
 tri_recursion(6)
